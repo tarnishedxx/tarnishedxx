@@ -65,7 +65,7 @@ Other          🕓 1m    ░░░░░░░░░░░░░░░░░░
 #### 🤾‍♂️ <a href="#" target="_blank">Github Achievements</a>
 
 <!-- blog starts -->
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AxisZql&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tarnishedxx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
 <!-- blog ends -->
 
 </td>
