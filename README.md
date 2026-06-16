@@ -45,7 +45,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="#" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️ <a href="#" target="_blank">~~Weekly Development Breakdown~~「Not real time！！！Bugs waiting to be fixed」</a>
 
 <!-- code_time starts -->
 
