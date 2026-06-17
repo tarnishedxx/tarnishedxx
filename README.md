@@ -76,7 +76,7 @@ Other          🕓 1m    ░░░░░░░░░░░░░░░░░░
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
 
-[<img height="26" src="https://shields.io/badge/Twitter-ffffff.svg?style=flat-square&logo=twitter" alt="Twitter" />](https://twitter.com/axiszql)
+[<img height="26" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.2560.png" alt="X" />](https://x.com/axiszql)
 [<img height="26" src="https://static.leetcode.cn/cn-mono-assets/production/assets/logo-dark-cn.4c5e285b.svg" alt="Leetcode" />](https://leetcode.cn/u/tarnishedch/)
 
 
